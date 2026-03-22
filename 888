@@ -1,0 +1,248 @@
+{
+  "spider": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/5524FCD_773_wex_20250914224930935newMediaImage.png;md5;5b04a874672be8cd69a18ef54259e657",
+  "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
+  "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
+  "sites": [
+        {
+      "key": "少儿教2s育",
+      "name": "长按主页可以刷新，点击主页选择源码",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://gitee.com/li-xiaotian/lzxjzz/raw/master/88888/etjy.json",
+      "jar": "https://gitee.com/li-xiaotian/lzxjzz/raw/master/88888/xsxp.jar"
+    },
+    {"key":"夸克","name":"💓我的┃夸克💓‍","type":3,"api":"csp_WexWoquarkpanGuard","searchable":1,"changeable":1,"timeout":50,"style":{"type":"list"}},
+    {
+      "key": "iKanBot",
+      "name": "爱看影视榜单抢先看",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40721.jar",
+      "ext": "https://v.ikanbot.com"
+    },
+    {
+      "key": "csp_XYQHiker_Vidhub视频库",
+      "name": "影视1",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ50225.jar",
+      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/Vidhub%E8%A7%86%E9%A2%91%E5%BA%93%E6%94%B9.json"
+    },
+    {
+      "key": "csp_XYQBiu_Libvio",
+      "name": "影视2",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ50225.jar",
+      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/libvioXYQ.json"
+    },
+    {
+        "key":"csp_Wwys",
+        "name":"影视3",
+        "type":3,"api":"csp_Wwys",
+        "ext":"https://www.wwgz.cn",
+        "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ50710.jar"
+    },
+        {
+            "key": "Wexconfig",
+            "name": "通用网盘配置中心1",
+            "name": "通用网盘配置1",
+            "type": 3,
+            "api": "csp_WexconfigGuard",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0
+        },
+        {
+            "key": "Wexokconfig",
+            "name": "影视网盘配置中心2",
+            "name": "影视网盘配置2",
+            "type": 3,
+            "api": "csp_WexokconfigGuard",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0
+        },
+        {
+            "key": "Wexerxiaoziyuan",
+            "name": "💓‍二小┃4K💓‍",
+            "type": 3,
+            "api": "csp_WexerxiaoziyuanGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "玩偶",
+            "name": "💓‍玩偶┃4K💓‍",
+            "type": 3,
+            "api": "csp_WoggGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {"key":"Wexqingfengdj","name":"🎼舞曲┃摇头🎼","type":3,"api":"csp_WexqingfengdjGuard","searchable":1,"changeable":0},
+        {"key":"Wexqingfengdj","name":"劲爆舞曲","type":3,"api":"csp_WexqingfengdjGuard","searchable":1,"changeable":0},
+        {"key":"Wexwwe","name":"🌐格斗┃WWE🌐","type":3,"api":"csp_WexwweGuard","searchable":1,"changeable":0},
+        {"key":"926看球","name":"🌐926┃体育🌐","type":3,"api":"csp_Wex926kanqiuGuard","searchable":1,"changeable":0,"style":{"type":"list"}},
+        {"key":"瓜子看球","name":"🌐瓜子┃体育🌐","type":3,"api":"csp_WexGZsportGuard","searchable":1,"changeable":0,"style":{"type":"list"}},
+        {"key":"看球","name":"🌐88┃体育🌐","type":3,"api":"csp_KanqiuGuard","searchable":1,"changeable":0,"style":{"type":"list"}},
+    {"key":"夸搜","name":"夸搜需VIP勿选","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}
+    },
+    {"key":"夸父","name":"夸搜需VIP勿选","type":3,"api":"csp_PanWebShareCloudKF","jar":"http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;6807f17e4f3cf359cdbf4f942e438e1a","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"list","ratio":1.433},
+"ext":"http://我不是.摸鱼儿.com/json/kf.json"},
+    {"key":"MoggV2","name":"优汐需VIP勿选","type":3,"api":"csp_PanWebShare","jar":"http://我不是.摸鱼儿.com/by/jar/moyuer.php","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://我不是.摸鱼儿.com/json/mogg.json?"
+    },
+    {
+      "key": "相声小品",
+      "name": "相声小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://gitee.com/li-xiaotian/lzxjzz/raw/master/88888/xsxp.json",
+      "jar": "https://gitee.com/li-xiaotian/lzxjzz/raw/master/88888/xsxp.jar"
+    },
+    {
+      "key": "小学教育",
+      "name": "小学教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://gitee.com/li-xiaotian/lzxjzz/raw/master/88888/xxjy.json",
+      "jar": "https://gitee.com/li-xiaotian/lzxjzz/raw/master/88888/xsxp.jar"
+    },
+    {
+      "key": "初中教育",
+      "name": "初中教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://gitee.com/li-xiaotian/lzxjzz/raw/master/88888/czjy.json",
+      "jar": "https://gitee.com/li-xiaotian/lzxjzz/raw/master/88888/xsxp.jar"
+    },
+    {
+      "key": "高中教育",
+      "name": "高中教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://gitee.com/li-xiaotian/lzxjzz/raw/master/88888/gzjy.json",
+      "jar": "https://gitee.com/li-xiaotian/lzxjzz/raw/master/88888/xsxp.jar"
+    },
+    {
+      "key": "音乐音乐",
+      "name": "音乐音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://gitee.com/li-xiaotian/lzxjzz/raw/master/88888/yinyue.json",
+      "jar": "https://gitee.com/li-xiaotian/lzxjzz/raw/master/88888/xsxp.jar"
+    },
+    {
+            "key": "量子资源",
+            "name": "请勿传播后果自负",
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "playurl": "json:https://tvmvip.com/lz2.php?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "国产剧",
+                "国产动漫",
+                "泰国剧",
+                "台湾剧",
+                "香港剧",
+                "欧美剧",
+                "韩国剧",
+                "日本剧",
+                "动漫",
+                "体育",
+                "剧情片",
+                "动作片",
+                "爱情片",
+                "喜剧片"
+            ]
+        },
+   {
+        "key":"看球的都来了",
+        "name":"请勿传播后果自负",
+        "type":3,
+        "api":"csp_Sir88",
+        "searchable":0,
+        "changeable":0,
+        "style":{"type":"list"}}
+  ],
+    "parses":[
+{"name":"王","type":1,"url":"http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="},
+{"name":"二","type":1,"url":"http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="},
+{"name":"小","type":1,"url":"http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="},
+{"name":"帅","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="}
+],
+"doh":[
+{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
+{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
+{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
+{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
+{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}
+],
+"rules":[
+{"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"]},
+{"name":"海外看","hosts":["haiwaikan"],"regex":["10.0099","10.3333","16.0599","8.1748","12.33","10.85"]},
+{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
+{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
+{"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
+{"name":"新视觉嗅探","hosts":["muzhi-video.bj.bcebos.com"],"regex":["202403/"]},
+{"name":"七新嗅探","hosts":["api.52wyb.com"],"regex":["m3u8?pt=m3u8"]},
+{"name":"夜市點擊","hosts":["yeslivetv.com"],"script":["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
+{"name":"毛驢點擊","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]}
+],
+"ads":["mozai.4gtv.tv","pv.vipwm.cc"],
+   "logo": "https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
+  "lives": [
+    {
+      "name": "VIPV666",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/lzxjzz/lzxjzz/refs/heads/main/666",
+      "playerType": 2
+    },
+    {
+      "name": "VIPV888",
+      "type": 0,
+      "url": "https://gitee.com/li-xiaotian/lzxjzz/raw/master/666666",
+      "playerType": 2
+    },
+    {
+      "name": "IPV6路由器开启",
+      "type": 0,
+      "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "虎牙一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "斗鱼一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "playerType": 2
+    }
+  ]
+}
